@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "Red Flag Test",
+    "loading": "Loading...",
+    "skipLink": "Skip to main"
+  },
+  "meta": {
+    "description": "What's your biggest red flag in dating? Take this viral quiz with 8 self-deprecating questions!",
+    "keywords": "red flag test, dating quiz, personality test, relationship quiz, viral quiz",
+    "og_title": "Red Flag Test - What's Your Biggest Red Flag?",
+    "og_description": "8 questions reveal your dating red flag!",
+    "twitter_title": "Red Flag Test - What's Your Biggest Red Flag?",
+    "twitter_description": "8 questions reveal your dating red flag!",
+    "page_title": "Red Flag Test - What's Your Biggest Red Flag? | DopaBrain"
+  },
+  "intro": {
+    "title": "Red Flag Test",
+    "subtitle": "What's your biggest dating red flag?",
+    "social_proof": "people tested",
+    "feature_flags": "6 red flag types",
+    "feature_questions": "8 dating scenarios",
+    "feature_humor": "Self-deprecating humor",
+    "time_estimate": "Takes about 1 minute"
+  },
+  "button": {
+    "start": "Discover My Red Flag",
+    "retry": "Try Again",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "question": {
+    "0": "How do you handle being left on read?",
+    "0a": "Send 5 more messages to make sure they saw it",
+    "0b": "Check their social media to see if they're active",
+    "0c": "Spiral into overthinking what I did wrong",
+    "0d": "Assume they hate me and plan for the worst",
+
+    "1": "Someone you like posts a story. What do you do?",
+    "1a": "Watch it 6 times analyzing every detail",
+    "1b": "Debate for 20 minutes if I should react to it",
+    "1c": "Ignore it so I don't seem desperate",
+    "1d": "React immediately within 0.5 seconds",
+
+    "2": "Your crush is taking too long to reply. Your move?",
+    "2a": "Send follow-up messages 'just checking in'",
+    "2b": "Investigate their entire online presence",
+    "2c": "Feel ALL the anxiety at maximum intensity",
+    "2d": "Convince myself they're just busy (they're not)",
+
+    "3": "How do you act on a first date?",
+    "3a": "Already planning the wedding in my head",
+    "3b": "Overshare my entire trauma history",
+    "3c": "Barely talk because I'm overthinking everything",
+    "3d": "Talk non-stop to fill every silence",
+
+    "4": "You see your ex at a party. What happens?",
+    "4a": "Hide in the bathroom for 30 minutes",
+    "4b": "Pretend I didn't see them (while watching constantly)",
+    "4c": "Make intense eye contact to assert dominance",
+    "4d": "Be overly friendly to show how fine I am",
+
+    "5": "How do you handle conflict in relationships?",
+    "5a": "Cry. Just cry about everything.",
+    "5b": "Avoid it forever and let resentment build",
+    "5c": "Overapologize for things that aren't my fault",
+    "5d": "Passive-aggressive comments for days",
+
+    "6": "Someone gives you a compliment. Your reaction?",
+    "6a": "Deflect with self-deprecating humor",
+    "6b": "Assume they want something from me",
+    "6c": "Panic quietly and say nothing coherent",
+    "6d": "Overshare why I don't deserve it",
+
+    "7": "You just started dating someone new. What's your vibe?",
+    "7a": "Already picking names for our future kids",
+    "7b": "Emotional rollercoaster every single day",
+    "7c": "Stalk their entire social media history to 2015",
+    "7d": "Just waiting for them to ghost me eventually"
+  },
+  "analyzing": {
+    "title": "Analyzing your red flags...",
+    "scanning": "Scanning relationship patterns...",
+    "matching": "Matching with red flag types...",
+    "comparing": "Comparing cringe levels...",
+    "complete": "Analysis complete!"
+  },
+  "result": {
+    "your_flag": "Your Red Flag",
+    "flag_metrics": "Red Flag Intensity",
+    "key_traits": "Key Behaviors",
+    "moreTests": "Explore More",
+    "share": "Share Your Result",
+    "percentile": "Only {pct} of all participants are the {type} type"
+  },
+  "metric": {
+    "impulsivity": "Impulsivity",
+    "attachment": "Attachment",
+    "intensity": "Intensity",
+    "selfAwareness": "Self-Awareness",
+    "dramaFactor": "Drama Factor"
+  },
+  "type": {
+    "doubleTexter": {
+      "name": "The Double-Texter",
+      "tagline": "Sends 12 follow-up messages before getting a reply",
+      "description": "You're the person who cannot handle the anxiety of waiting. One unanswered text turns into five 'hey's, three 'you there?'s, and a 'sorry if I'm bothering you.' Your phone is basically a weapon of mass communication. You know it's a red flag, but your fingers move faster than your self-control.",
+      "trait1": "Can't handle silence",
+      "trait2": "Overthinks everything",
+      "trait3": "Needs constant reassurance"
+    },
+    "profileStalker": {
+      "name": "The Profile Stalker",
+      "tagline": "Knows your ex's cousin's dog's name from 2018",
+      "description": "You've mastered the art of the deep-dive. Before a first date, you've already seen their high school graduation photos, know their mom's maiden name, and have opinions about their friend group. You call it 'research.' Everyone else calls it 'concerning.' But hey, at least you'll never be surprised.",
+      "trait1": "FBI-level research skills",
+      "trait2": "Remembers everything",
+      "trait3": "Zero chill about boundaries"
+    },
+    "emotionalTornado": {
+      "name": "The Emotional Tornado",
+      "tagline": "Feels ALL the feelings ALL the time",
+      "description": "You don't just feel emotions—you ARE emotions. A good morning text? Euphoria. No response in 10 minutes? Despair. Someone likes your photo? True love. You're on an emotional rollercoaster, and everyone around you bought a ticket they didn't ask for. Intensity is your middle name.",
+      "trait1": "0 to 100 real quick",
+      "trait2": "Drama is the main course",
+      "trait3": "Emotional whiplash specialist"
+    },
+    "chronicCanceller": {
+      "name": "The Chronic Canceller",
+      "tagline": "'Something came up' is your autobiography title",
+      "description": "You make plans with the best intentions, then panic and cancel last minute. 'I'm not feeling well' and 'something came up' are your signature phrases. Commitment? Terrifying. Actually showing up? Even worse. You want connection, but the moment it's real, you're suddenly very busy washing your hair.",
+      "trait1": "Master of excuses",
+      "trait2": "Avoidance is a lifestyle",
+      "trait3": "Fear of actual intimacy"
+    },
+    "overthinkingTexter": {
+      "name": "The Overthinking Texter",
+      "tagline": "Takes 3 hours to reply 'lol'",
+      "description": "You draft, delete, redraft, and analyze every single text like it's a thesis defense. Should you use a period? Is 'haha' too cold? Does two exclamation marks seem desperate? By the time you hit send, the conversation has moved on. You're not slow—you're just battling your inner critic in real-time.",
+      "trait1": "Paralyzed by punctuation",
+      "trait2": "Rewrites everything 47 times",
+      "trait3": "Thinks way too much"
+    },
+    "loveBomber": {
+      "name": "The Love Bomber",
+      "tagline": "Says 'I love you' on date two",
+      "description": "You fall HARD and FAST. One good conversation and you're already planning forever. You shower people with affection, grand gestures, and future plans before they've even learned your last name. It's not manipulation—it's just that your heart moves at lightning speed and your brain forgot to come along.",
+      "trait1": "Goes all-in immediately",
+      "trait2": "Future-plans on date one",
+      "trait3": "Intensity scares people off"
+    }
+  },
+  "share": {
+    "text": "My biggest red flag is '{type}'! What's yours?"
+  },
+  "related": {
+    "attachmentStyle": "Attachment Style",
+    "loveLanguage": "Love Language",
+    "eqTest": "EQ Test",
+    "mentalAge": "Mental Age"
+  },
+  "game": {
+    "back": "DopaBrain Home"
+  }
+}

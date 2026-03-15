@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="flagGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" fill="#0a0f1e"/>
+  <!-- Flag pole -->
+  <line x1="60" y1="40" x2="60" y2="152" stroke="#dc2626" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="60" cy="40" r="8" fill="#dc2626"/>
+  <!-- Flag -->
+  <path d="M 60 50 Q 110 45 160 50 L 160 110 Q 110 115 60 110 Z" fill="url(#flagGrad)" opacity="0.95"/>
+  <!-- Warning symbol -->
+  <circle cx="110" cy="80" r="24" fill="none" stroke="#fff" stroke-width="3"/>
+  <text x="110" y="92" text-anchor="middle" font-size="32" fill="#fff" font-weight="bold" font-family="Arial">!</text>
+</svg>
